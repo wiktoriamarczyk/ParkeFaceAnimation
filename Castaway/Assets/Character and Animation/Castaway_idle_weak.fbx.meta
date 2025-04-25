@@ -1,0 +1,2367 @@
+fileFormatVersion: 2
+guid: c31dd452308fe9a46940fa66e9d15647
+timeCreated: 1443738918
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Boots
+    100002: //RootNode
+    100004: CC_Base_Eye
+    100006: CC_Base_Teeth
+    100008: CC_Standard
+    100010: Jeans
+    100012: Part_HairMesh
+    100014: Part_HairMesh_0
+    100016: RL_G6_Body
+    100018: RL_G6_FacialBone
+    100020: RL_G6_Hair
+    100022: RL_G6_Hair 1
+    100024: RL_G6_Head
+    100026: RL_G6_HeadNub
+    100028: RL_G6_Hip
+    100030: RL_G6_JawRoot
+    100032: RL_G6_L_Abdominal
+    100034: RL_G6_L_AbdominalNub
+    100036: RL_G6_L_Breast
+    100038: RL_G6_L_BreastNub
+    100040: RL_G6_L_Calf
+    100042: RL_G6_L_CalfTwist01
+    100044: RL_G6_L_CalfTwist02
+    100046: RL_G6_L_Cheek01
+    100048: RL_G6_L_Cheek02
+    100050: RL_G6_L_Clavicle
+    100052: RL_G6_L_CornerLip
+    100054: RL_G6_L_Elbow
+    100056: RL_G6_L_Eye
+    100058: RL_G6_L_Eyebrows
+    100060: RL_G6_L_EyelidDown
+    100062: RL_G6_L_EyelidUp
+    100064: RL_G6_L_EyeRoot
+    100066: RL_G6_L_Finger00
+    100068: RL_G6_L_Finger01
+    100070: RL_G6_L_Finger02
+    100072: RL_G6_L_Finger0Nub
+    100074: RL_G6_L_Finger10
+    100076: RL_G6_L_Finger11
+    100078: RL_G6_L_Finger12
+    100080: RL_G6_L_Finger1Nub
+    100082: RL_G6_L_Finger20
+    100084: RL_G6_L_Finger21
+    100086: RL_G6_L_Finger22
+    100088: RL_G6_L_Finger2Nub
+    100090: RL_G6_L_Finger30
+    100092: RL_G6_L_Finger31
+    100094: RL_G6_L_Finger32
+    100096: RL_G6_L_Finger3Nub
+    100098: RL_G6_L_Finger40
+    100100: RL_G6_L_Finger41
+    100102: RL_G6_L_Finger42
+    100104: RL_G6_L_Finger4Nub
+    100106: RL_G6_L_Foot
+    100108: RL_G6_L_Foot01_Floor1
+    100110: RL_G6_L_Foot01_Floor2
+    100112: RL_G6_L_Foot01_Floor3
+    100114: RL_G6_L_Foot01_Floor4
+    100116: RL_G6_L_Foot01_Floor5
+    100118: RL_G6_L_Foot01_Floor6
+    100120: RL_G6_L_Forearm
+    100122: RL_G6_L_ForearmTwist01
+    100124: RL_G6_L_ForearmTwist02
+    100126: RL_G6_L_Hand
+    100128: RL_G6_L_Hand01_Floor1
+    100130: RL_G6_L_Hand01_Floor2
+    100132: RL_G6_L_Hand01_Floor3
+    100134: RL_G6_L_Hand01_Floor4
+    100136: RL_G6_L_Hand01_Floor5
+    100138: RL_G6_L_Hand01_Floor6
+    100140: RL_G6_L_Hip0
+    100142: RL_G6_L_Hip0Nub
+    100144: RL_G6_L_InnerBrow
+    100146: RL_G6_L_Knee
+    100148: RL_G6_L_LowerLip
+    100150: RL_G6_L_NoseSide
+    100152: RL_G6_L_OutterBrow
+    100154: RL_G6_L_Ribs
+    100156: RL_G6_L_RibsNub
+    100158: RL_G6_L_RibsTwist
+    100160: RL_G6_L_Thigh
+    100162: RL_G6_L_ThighTwist01
+    100164: RL_G6_L_ThighTwist02
+    100166: RL_G6_L_Toe00
+    100168: RL_G6_L_Toe00Nub
+    100170: RL_G6_L_Toe10
+    100172: RL_G6_L_Toe10Nub
+    100174: RL_G6_L_Toe20
+    100176: RL_G6_L_Toe20Nub
+    100178: RL_G6_L_Toe30
+    100180: RL_G6_L_Toe30Nub
+    100182: RL_G6_L_Toe40
+    100184: RL_G6_L_Toe40Nub
+    100186: RL_G6_L_ToeBase
+    100188: RL_G6_L_ToeBaseShareBone
+    100190: RL_G6_L_Upperarm
+    100192: RL_G6_L_UpperarmTwist01
+    100194: RL_G6_L_UpperarmTwist02
+    100196: RL_G6_L_UpperLip
+    100198: RL_G6_LowerCenterLip
+    100200: RL_G6_NeckTwist01
+    100202: RL_G6_NeckTwist02
+    100204: RL_G6_NoseF
+    100206: RL_G6_NoseM
+    100208: RL_G6_Pelvis
+    100210: RL_G6_R_Abdominal
+    100212: RL_G6_R_AbdominalNub
+    100214: RL_G6_R_Breast
+    100216: RL_G6_R_BreastNub
+    100218: RL_G6_R_Calf
+    100220: RL_G6_R_CalfTwist01
+    100222: RL_G6_R_CalfTwist02
+    100224: RL_G6_R_Cheek01
+    100226: RL_G6_R_Cheek02
+    100228: RL_G6_R_Clavicle
+    100230: RL_G6_R_CornerLip
+    100232: RL_G6_R_Elbow
+    100234: RL_G6_R_Eye
+    100236: RL_G6_R_Eyebrows
+    100238: RL_G6_R_EyelidDown
+    100240: RL_G6_R_EyelidUp
+    100242: RL_G6_R_EyeRoot
+    100244: RL_G6_R_Finger00
+    100246: RL_G6_R_Finger01
+    100248: RL_G6_R_Finger02
+    100250: RL_G6_R_Finger0Nub
+    100252: RL_G6_R_Finger10
+    100254: RL_G6_R_Finger11
+    100256: RL_G6_R_Finger12
+    100258: RL_G6_R_Finger1Nub
+    100260: RL_G6_R_Finger20
+    100262: RL_G6_R_Finger21
+    100264: RL_G6_R_Finger22
+    100266: RL_G6_R_Finger2Nub
+    100268: RL_G6_R_Finger30
+    100270: RL_G6_R_Finger31
+    100272: RL_G6_R_Finger32
+    100274: RL_G6_R_Finger3Nub
+    100276: RL_G6_R_Finger40
+    100278: RL_G6_R_Finger41
+    100280: RL_G6_R_Finger42
+    100282: RL_G6_R_Finger4Nub
+    100284: RL_G6_R_Foot
+    100286: RL_G6_R_Foot01_Floor1
+    100288: RL_G6_R_Foot01_Floor2
+    100290: RL_G6_R_Foot01_Floor3
+    100292: RL_G6_R_Foot01_Floor4
+    100294: RL_G6_R_Foot01_Floor5
+    100296: RL_G6_R_Foot01_Floor6
+    100298: RL_G6_R_Forearm
+    100300: RL_G6_R_ForearmTwist01
+    100302: RL_G6_R_ForearmTwist02
+    100304: RL_G6_R_Hand
+    100306: RL_G6_R_Hand01_Floor1
+    100308: RL_G6_R_Hand01_Floor2
+    100310: RL_G6_R_Hand01_Floor3
+    100312: RL_G6_R_Hand01_Floor4
+    100314: RL_G6_R_Hand01_Floor5
+    100316: RL_G6_R_Hand01_Floor6
+    100318: RL_G6_R_Hip0
+    100320: RL_G6_R_Hip0Nub
+    100322: RL_G6_R_InnerBrow
+    100324: RL_G6_R_Knee
+    100326: RL_G6_R_LowerLip
+    100328: RL_G6_R_NoseSide
+    100330: RL_G6_R_OutterBrow
+    100332: RL_G6_R_Ribs
+    100334: RL_G6_R_RibsNub
+    100336: RL_G6_R_RibsTwist
+    100338: RL_G6_R_Thigh
+    100340: RL_G6_R_ThighTwist01
+    100342: RL_G6_R_ThighTwist02
+    100344: RL_G6_R_Toe00
+    100346: RL_G6_R_Toe00Nub
+    100348: RL_G6_R_Toe10
+    100350: RL_G6_R_Toe10Nub
+    100352: RL_G6_R_Toe20
+    100354: RL_G6_R_Toe20Nub
+    100356: RL_G6_R_Toe30
+    100358: RL_G6_R_Toe30Nub
+    100360: RL_G6_R_Toe40
+    100362: RL_G6_R_Toe40Nub
+    100364: RL_G6_R_ToeBase
+    100366: RL_G6_R_ToeBaseShareBone
+    100368: RL_G6_R_Upperarm
+    100370: RL_G6_R_UpperarmTwist01
+    100372: RL_G6_R_UpperarmTwist02
+    100374: RL_G6_R_UpperLip
+    100376: RL_G6_Spine01
+    100378: RL_G6_Spine02
+    100380: RL_G6_Teeth01
+    100382: RL_G6_Teeth02
+    100384: RL_G6_Tongue
+    100386: RL_G6_Tongue01
+    100388: RL_G6_Tongue02
+    100390: RL_G6_Tongue03
+    100392: RL_G6_Tongue03Nub
+    100394: RL_G6_UpperCenterLip
+    100396: RL_G6_UpperJaw
+    100398: RL_G6_Waist
+    100400: Shirt
+    400000: Boots
+    400002: //RootNode
+    400004: CC_Base_Eye
+    400006: CC_Base_Teeth
+    400008: CC_Standard
+    400010: Jeans
+    400012: Part_HairMesh
+    400014: Part_HairMesh_0
+    400016: RL_G6_Body
+    400018: RL_G6_FacialBone
+    400020: RL_G6_Hair
+    400022: RL_G6_Hair 1
+    400024: RL_G6_Head
+    400026: RL_G6_HeadNub
+    400028: RL_G6_Hip
+    400030: RL_G6_JawRoot
+    400032: RL_G6_L_Abdominal
+    400034: RL_G6_L_AbdominalNub
+    400036: RL_G6_L_Breast
+    400038: RL_G6_L_BreastNub
+    400040: RL_G6_L_Calf
+    400042: RL_G6_L_CalfTwist01
+    400044: RL_G6_L_CalfTwist02
+    400046: RL_G6_L_Cheek01
+    400048: RL_G6_L_Cheek02
+    400050: RL_G6_L_Clavicle
+    400052: RL_G6_L_CornerLip
+    400054: RL_G6_L_Elbow
+    400056: RL_G6_L_Eye
+    400058: RL_G6_L_Eyebrows
+    400060: RL_G6_L_EyelidDown
+    400062: RL_G6_L_EyelidUp
+    400064: RL_G6_L_EyeRoot
+    400066: RL_G6_L_Finger00
+    400068: RL_G6_L_Finger01
+    400070: RL_G6_L_Finger02
+    400072: RL_G6_L_Finger0Nub
+    400074: RL_G6_L_Finger10
+    400076: RL_G6_L_Finger11
+    400078: RL_G6_L_Finger12
+    400080: RL_G6_L_Finger1Nub
+    400082: RL_G6_L_Finger20
+    400084: RL_G6_L_Finger21
+    400086: RL_G6_L_Finger22
+    400088: RL_G6_L_Finger2Nub
+    400090: RL_G6_L_Finger30
+    400092: RL_G6_L_Finger31
+    400094: RL_G6_L_Finger32
+    400096: RL_G6_L_Finger3Nub
+    400098: RL_G6_L_Finger40
+    400100: RL_G6_L_Finger41
+    400102: RL_G6_L_Finger42
+    400104: RL_G6_L_Finger4Nub
+    400106: RL_G6_L_Foot
+    400108: RL_G6_L_Foot01_Floor1
+    400110: RL_G6_L_Foot01_Floor2
+    400112: RL_G6_L_Foot01_Floor3
+    400114: RL_G6_L_Foot01_Floor4
+    400116: RL_G6_L_Foot01_Floor5
+    400118: RL_G6_L_Foot01_Floor6
+    400120: RL_G6_L_Forearm
+    400122: RL_G6_L_ForearmTwist01
+    400124: RL_G6_L_ForearmTwist02
+    400126: RL_G6_L_Hand
+    400128: RL_G6_L_Hand01_Floor1
+    400130: RL_G6_L_Hand01_Floor2
+    400132: RL_G6_L_Hand01_Floor3
+    400134: RL_G6_L_Hand01_Floor4
+    400136: RL_G6_L_Hand01_Floor5
+    400138: RL_G6_L_Hand01_Floor6
+    400140: RL_G6_L_Hip0
+    400142: RL_G6_L_Hip0Nub
+    400144: RL_G6_L_InnerBrow
+    400146: RL_G6_L_Knee
+    400148: RL_G6_L_LowerLip
+    400150: RL_G6_L_NoseSide
+    400152: RL_G6_L_OutterBrow
+    400154: RL_G6_L_Ribs
+    400156: RL_G6_L_RibsNub
+    400158: RL_G6_L_RibsTwist
+    400160: RL_G6_L_Thigh
+    400162: RL_G6_L_ThighTwist01
+    400164: RL_G6_L_ThighTwist02
+    400166: RL_G6_L_Toe00
+    400168: RL_G6_L_Toe00Nub
+    400170: RL_G6_L_Toe10
+    400172: RL_G6_L_Toe10Nub
+    400174: RL_G6_L_Toe20
+    400176: RL_G6_L_Toe20Nub
+    400178: RL_G6_L_Toe30
+    400180: RL_G6_L_Toe30Nub
+    400182: RL_G6_L_Toe40
+    400184: RL_G6_L_Toe40Nub
+    400186: RL_G6_L_ToeBase
+    400188: RL_G6_L_ToeBaseShareBone
+    400190: RL_G6_L_Upperarm
+    400192: RL_G6_L_UpperarmTwist01
+    400194: RL_G6_L_UpperarmTwist02
+    400196: RL_G6_L_UpperLip
+    400198: RL_G6_LowerCenterLip
+    400200: RL_G6_NeckTwist01
+    400202: RL_G6_NeckTwist02
+    400204: RL_G6_NoseF
+    400206: RL_G6_NoseM
+    400208: RL_G6_Pelvis
+    400210: RL_G6_R_Abdominal
+    400212: RL_G6_R_AbdominalNub
+    400214: RL_G6_R_Breast
+    400216: RL_G6_R_BreastNub
+    400218: RL_G6_R_Calf
+    400220: RL_G6_R_CalfTwist01
+    400222: RL_G6_R_CalfTwist02
+    400224: RL_G6_R_Cheek01
+    400226: RL_G6_R_Cheek02
+    400228: RL_G6_R_Clavicle
+    400230: RL_G6_R_CornerLip
+    400232: RL_G6_R_Elbow
+    400234: RL_G6_R_Eye
+    400236: RL_G6_R_Eyebrows
+    400238: RL_G6_R_EyelidDown
+    400240: RL_G6_R_EyelidUp
+    400242: RL_G6_R_EyeRoot
+    400244: RL_G6_R_Finger00
+    400246: RL_G6_R_Finger01
+    400248: RL_G6_R_Finger02
+    400250: RL_G6_R_Finger0Nub
+    400252: RL_G6_R_Finger10
+    400254: RL_G6_R_Finger11
+    400256: RL_G6_R_Finger12
+    400258: RL_G6_R_Finger1Nub
+    400260: RL_G6_R_Finger20
+    400262: RL_G6_R_Finger21
+    400264: RL_G6_R_Finger22
+    400266: RL_G6_R_Finger2Nub
+    400268: RL_G6_R_Finger30
+    400270: RL_G6_R_Finger31
+    400272: RL_G6_R_Finger32
+    400274: RL_G6_R_Finger3Nub
+    400276: RL_G6_R_Finger40
+    400278: RL_G6_R_Finger41
+    400280: RL_G6_R_Finger42
+    400282: RL_G6_R_Finger4Nub
+    400284: RL_G6_R_Foot
+    400286: RL_G6_R_Foot01_Floor1
+    400288: RL_G6_R_Foot01_Floor2
+    400290: RL_G6_R_Foot01_Floor3
+    400292: RL_G6_R_Foot01_Floor4
+    400294: RL_G6_R_Foot01_Floor5
+    400296: RL_G6_R_Foot01_Floor6
+    400298: RL_G6_R_Forearm
+    400300: RL_G6_R_ForearmTwist01
+    400302: RL_G6_R_ForearmTwist02
+    400304: RL_G6_R_Hand
+    400306: RL_G6_R_Hand01_Floor1
+    400308: RL_G6_R_Hand01_Floor2
+    400310: RL_G6_R_Hand01_Floor3
+    400312: RL_G6_R_Hand01_Floor4
+    400314: RL_G6_R_Hand01_Floor5
+    400316: RL_G6_R_Hand01_Floor6
+    400318: RL_G6_R_Hip0
+    400320: RL_G6_R_Hip0Nub
+    400322: RL_G6_R_InnerBrow
+    400324: RL_G6_R_Knee
+    400326: RL_G6_R_LowerLip
+    400328: RL_G6_R_NoseSide
+    400330: RL_G6_R_OutterBrow
+    400332: RL_G6_R_Ribs
+    400334: RL_G6_R_RibsNub
+    400336: RL_G6_R_RibsTwist
+    400338: RL_G6_R_Thigh
+    400340: RL_G6_R_ThighTwist01
+    400342: RL_G6_R_ThighTwist02
+    400344: RL_G6_R_Toe00
+    400346: RL_G6_R_Toe00Nub
+    400348: RL_G6_R_Toe10
+    400350: RL_G6_R_Toe10Nub
+    400352: RL_G6_R_Toe20
+    400354: RL_G6_R_Toe20Nub
+    400356: RL_G6_R_Toe30
+    400358: RL_G6_R_Toe30Nub
+    400360: RL_G6_R_Toe40
+    400362: RL_G6_R_Toe40Nub
+    400364: RL_G6_R_ToeBase
+    400366: RL_G6_R_ToeBaseShareBone
+    400368: RL_G6_R_Upperarm
+    400370: RL_G6_R_UpperarmTwist01
+    400372: RL_G6_R_UpperarmTwist02
+    400374: RL_G6_R_UpperLip
+    400376: RL_G6_Spine01
+    400378: RL_G6_Spine02
+    400380: RL_G6_Teeth01
+    400382: RL_G6_Teeth02
+    400384: RL_G6_Tongue
+    400386: RL_G6_Tongue01
+    400388: RL_G6_Tongue02
+    400390: RL_G6_Tongue03
+    400392: RL_G6_Tongue03Nub
+    400394: RL_G6_UpperCenterLip
+    400396: RL_G6_UpperJaw
+    400398: RL_G6_Waist
+    400400: Shirt
+    4300000: CC_Base_Eye
+    4300002: RL_G6_Body
+    4300004: RL_G6_Tongue
+    4300006: CC_Base_Teeth
+    4300008: Boots
+    4300010: Shirt
+    4300012: Jeans
+    4300014: Part_HairMesh_0
+    7400000: idle_weak
+    9500000: //RootNode
+    13700000: Boots
+    13700002: CC_Base_Eye
+    13700004: CC_Base_Teeth
+    13700006: Jeans
+    13700008: Part_HairMesh_0
+    13700010: RL_G6_Body
+    13700012: RL_G6_Tongue
+    13700014: Shirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 'MuscleClip ''Castaway_idle_weak'' conversion warning:
+      ''CC_Standard/RL_G6_Hip/RL_G6_Waist'' is between humanoid transforms and has
+      rotation animation. This might lower retargeting quality.
+
+
+      MuscleClip ''Castaway_idle_weak'' conversion warning: ''CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02''
+      is between humanoid transforms and has rotation animation. This might lower
+      retargeting quality.
+
+
+'
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle_weak
+      takeName: idle_weak
+      firstFrame: 61
+      lastFrame: 357
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Boots
+        weight: 0
+      - path: CC_Base_Eye
+        weight: 0
+      - path: CC_Base_Teeth
+        weight: 0
+      - path: CC_Standard
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_CalfTwist01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_CalfTwist01/RL_G6_L_CalfTwist02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_Foot01_Floor1
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_Foot01_Floor2
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_Foot01_Floor3
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_Foot01_Floor4
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_Foot01_Floor5
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_Foot01_Floor6
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe00
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe00/RL_G6_L_Toe00Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe10
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe10/RL_G6_L_Toe10Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe20
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe20/RL_G6_L_Toe20Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe30
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe30/RL_G6_L_Toe30Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe40
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBase/RL_G6_L_Toe40/RL_G6_L_Toe40Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Foot/RL_G6_L_ToeBaseShareBone
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Calf/RL_G6_L_Knee
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Hip0
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_Hip0/RL_G6_L_Hip0Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_ThighTwist01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_L_Thigh/RL_G6_L_ThighTwist01/RL_G6_L_ThighTwist02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_CalfTwist01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_CalfTwist01/RL_G6_R_CalfTwist02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_Foot01_Floor1
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_Foot01_Floor2
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_Foot01_Floor3
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_Foot01_Floor4
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_Foot01_Floor5
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_Foot01_Floor6
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe00
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe00/RL_G6_R_Toe00Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe10
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe10/RL_G6_R_Toe10Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe20
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe20/RL_G6_R_Toe20Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe30
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe30/RL_G6_R_Toe30Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe40
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBase/RL_G6_R_Toe40/RL_G6_R_Toe40Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Foot/RL_G6_R_ToeBaseShareBone
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Calf/RL_G6_R_Knee
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Hip0
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_Hip0/RL_G6_R_Hip0Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_ThighTwist01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Pelvis/RL_G6_R_Thigh/RL_G6_R_ThighTwist01/RL_G6_R_ThighTwist02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_L_Abdominal
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_L_Abdominal/RL_G6_L_AbdominalNub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_R_Abdominal
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_R_Abdominal/RL_G6_R_AbdominalNub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Elbow
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_ForearmTwist01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_ForearmTwist01/RL_G6_L_ForearmTwist02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger00
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger00/RL_G6_L_Finger01
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger00/RL_G6_L_Finger01/RL_G6_L_Finger02
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger00/RL_G6_L_Finger01/RL_G6_L_Finger02/RL_G6_L_Finger0Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger10
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger10/RL_G6_L_Finger11
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger10/RL_G6_L_Finger11/RL_G6_L_Finger12
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger10/RL_G6_L_Finger11/RL_G6_L_Finger12/RL_G6_L_Finger1Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger20
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger20/RL_G6_L_Finger21
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger20/RL_G6_L_Finger21/RL_G6_L_Finger22
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger20/RL_G6_L_Finger21/RL_G6_L_Finger22/RL_G6_L_Finger2Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger30
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger30/RL_G6_L_Finger31
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger30/RL_G6_L_Finger31/RL_G6_L_Finger32
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger30/RL_G6_L_Finger31/RL_G6_L_Finger32/RL_G6_L_Finger3Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger40
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger40/RL_G6_L_Finger41
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger40/RL_G6_L_Finger41/RL_G6_L_Finger42
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Finger40/RL_G6_L_Finger41/RL_G6_L_Finger42/RL_G6_L_Finger4Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Hand01_Floor1
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Hand01_Floor2
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Hand01_Floor3
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Hand01_Floor4
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Hand01_Floor5
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_Forearm/RL_G6_L_Hand/RL_G6_L_Hand01_Floor6
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_UpperarmTwist01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Clavicle/RL_G6_L_Upperarm/RL_G6_L_UpperarmTwist01/RL_G6_L_UpperarmTwist02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Ribs
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Ribs/RL_G6_L_RibsNub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Ribs/RL_G6_L_RibsTwist
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Ribs/RL_G6_L_RibsTwist/RL_G6_L_Breast
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_L_Ribs/RL_G6_L_RibsTwist/RL_G6_L_Breast/RL_G6_L_BreastNub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_JawRoot
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_JawRoot/RL_G6_Teeth02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_JawRoot/RL_G6_Tongue01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_JawRoot/RL_G6_Tongue01/RL_G6_Tongue02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_JawRoot/RL_G6_Tongue01/RL_G6_Tongue02/RL_G6_Tongue03
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_JawRoot/RL_G6_Tongue01/RL_G6_Tongue02/RL_G6_Tongue03/RL_G6_Tongue03Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_Cheek01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_Cheek02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_CornerLip
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_EyeRoot
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_EyeRoot/RL_G6_L_Eye
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_EyeRoot/RL_G6_L_Eyebrows
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_EyeRoot/RL_G6_L_Eyebrows/RL_G6_L_InnerBrow
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_EyeRoot/RL_G6_L_Eyebrows/RL_G6_L_OutterBrow
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_EyeRoot/RL_G6_L_EyelidDown
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_L_EyeRoot/RL_G6_L_EyelidUp
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_NoseF
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_NoseF/RL_G6_L_NoseSide
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_NoseF/RL_G6_NoseM
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_NoseF/RL_G6_R_NoseSide
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_Cheek01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_Cheek02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_CornerLip
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_EyeRoot
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_EyeRoot/RL_G6_R_Eye
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_EyeRoot/RL_G6_R_Eyebrows
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_EyeRoot/RL_G6_R_Eyebrows/RL_G6_R_InnerBrow
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_EyeRoot/RL_G6_R_Eyebrows/RL_G6_R_OutterBrow
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_EyeRoot/RL_G6_R_EyelidDown
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_R_EyeRoot/RL_G6_R_EyelidUp
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_UpperJaw
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_UpperJaw/RL_G6_LowerCenterLip
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_UpperJaw/RL_G6_LowerCenterLip/RL_G6_L_LowerLip
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_UpperJaw/RL_G6_LowerCenterLip/RL_G6_R_LowerLip
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_UpperJaw/RL_G6_Teeth01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_UpperJaw/RL_G6_UpperCenterLip
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_UpperJaw/RL_G6_UpperCenterLip/RL_G6_L_UpperLip
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_FacialBone/RL_G6_UpperJaw/RL_G6_UpperCenterLip/RL_G6_R_UpperLip
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_Hair
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_Hair/Part_HairMesh
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_Hair
+          1
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_NeckTwist01/RL_G6_NeckTwist02/RL_G6_Head/RL_G6_HeadNub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Elbow
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_ForearmTwist01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_ForearmTwist01/RL_G6_R_ForearmTwist02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger00
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger00/RL_G6_R_Finger01
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger00/RL_G6_R_Finger01/RL_G6_R_Finger02
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger00/RL_G6_R_Finger01/RL_G6_R_Finger02/RL_G6_R_Finger0Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger10
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger10/RL_G6_R_Finger11
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger10/RL_G6_R_Finger11/RL_G6_R_Finger12
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger10/RL_G6_R_Finger11/RL_G6_R_Finger12/RL_G6_R_Finger1Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger20
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger20/RL_G6_R_Finger21
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger20/RL_G6_R_Finger21/RL_G6_R_Finger22
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger20/RL_G6_R_Finger21/RL_G6_R_Finger22/RL_G6_R_Finger2Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger30
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger30/RL_G6_R_Finger31
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger30/RL_G6_R_Finger31/RL_G6_R_Finger32
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger30/RL_G6_R_Finger31/RL_G6_R_Finger32/RL_G6_R_Finger3Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger40
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger40/RL_G6_R_Finger41
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger40/RL_G6_R_Finger41/RL_G6_R_Finger42
+        weight: 1
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Finger40/RL_G6_R_Finger41/RL_G6_R_Finger42/RL_G6_R_Finger4Nub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Hand01_Floor1
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Hand01_Floor2
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Hand01_Floor3
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Hand01_Floor4
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Hand01_Floor5
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_Forearm/RL_G6_R_Hand/RL_G6_R_Hand01_Floor6
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_UpperarmTwist01
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Clavicle/RL_G6_R_Upperarm/RL_G6_R_UpperarmTwist01/RL_G6_R_UpperarmTwist02
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Ribs
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Ribs/RL_G6_R_RibsNub
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Ribs/RL_G6_R_RibsTwist
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Ribs/RL_G6_R_RibsTwist/RL_G6_R_Breast
+        weight: 0
+      - path: CC_Standard/RL_G6_Hip/RL_G6_Waist/RL_G6_Spine01/RL_G6_Spine02/RL_G6_R_Ribs/RL_G6_R_RibsTwist/RL_G6_R_Breast/RL_G6_R_BreastNub
+        weight: 0
+      - path: Jeans
+        weight: 0
+      - path: Part_HairMesh_0
+        weight: 0
+      - path: RL_G6_Body
+        weight: 0
+      - path: RL_G6_Tongue
+        weight: 0
+      - path: Shirt
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: RL_G6_Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_Spine01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_Spine02
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_NeckTwist01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Upperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Upperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_ToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_ToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_JawRoot
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger00
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger10
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger20
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger30
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger40
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_L_Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger00
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger10
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger20
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger30
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger40
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RL_G6_R_Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Castaway_idle_weak(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Boots
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: .707106829, y: -0, z: 0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CC_Base_Eye
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CC_Base_Teeth
+      position: {x: 3.62396236e-07, y: -1.52587887e-07, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CC_Standard
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Hip
+      position: {x: -2.06060522e-05, y: .0344281793, z: 1.08022487}
+      rotation: {x: .707106709, y: 1.91539993e-06, z: -1.80197378e-06, w: .707106888}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Pelvis
+      position: {x: 2.32830617e-12, y: -7.02462515e-08, z: 0}
+      rotation: {x: .0880555212, y: -6.12323765e-06, z: 6.51489463e-05, w: .996115565}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Thigh
+      position: {x: -.0971075669, y: -.0224013347, z: .00130408746}
+      rotation: {x: .000444416568, y: .094677195, z: .995464027, w: -.00935093034}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Calf
+      position: {x: 1.04904181e-07, y: .451230645, z: 2.384186e-08}
+      rotation: {x: -.0163548104, y: -.000388227403, z: .00110394845, w: .999865592}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_CalfTwist01
+      position: {x: -0, y: -5.64753968e-08, z: -2.38418552e-09}
+      rotation: {x: -1.94707042e-07, y: -2.85750739e-05, z: 5.5637708e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_CalfTwist02
+      position: {x: -1.04904181e-07, y: .264921635, z: 1.38282786e-07}
+      rotation: {x: 2.84065749e-07, y: .000552229059, z: 8.76771367e-08, w: .999999881}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Knee
+      position: {x: -0, y: -5.64753968e-08, z: -2.38418552e-09}
+      rotation: {x: .00160175888, y: -2.83814352e-05, z: -3.23326503e-07, w: .999998748}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Foot
+      position: {x: 1.66892988e-07, y: .54409796, z: -5.2404398e-06}
+      rotation: {x: -.0156596862, y: .000550729921, z: -.0104877884, w: .999822199}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Foot01_Floor1
+      position: {x: -.0492141582, y: .0536205322, z: .230604619}
+      rotation: {x: 5.81398979e-07, y: .726097047, z: -.687592208, w: 6.1395707e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Foot01_Floor2
+      position: {x: .0515023805, y: .0536208153, z: .230605334}
+      rotation: {x: 5.81398979e-07, y: .726097047, z: -.687592208, w: 6.1395707e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Foot01_Floor3
+      position: {x: -.0492147766, y: .0585130379, z: .0904932693}
+      rotation: {x: 5.81398979e-07, y: .726097047, z: -.687592208, w: 6.1395707e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Foot01_Floor4
+      position: {x: .0515017696, y: .0585133173, z: .0904938877}
+      rotation: {x: 5.81398979e-07, y: .726097047, z: -.687592208, w: 6.1395707e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Foot01_Floor5
+      position: {x: -.0492154174, y: .0634055436, z: -.049618084}
+      rotation: {x: 5.81398979e-07, y: .726097047, z: -.687592208, w: 6.1395707e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Foot01_Floor6
+      position: {x: .0515011437, y: .0634058267, z: -.0496174693}
+      rotation: {x: 5.81398979e-07, y: .726097047, z: -.687592208, w: 6.1395707e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_ToeBase
+      position: {x: .0150642078, y: .0244428851, z: .127014533}
+      rotation: {x: .700748086, y: .0204415862, z: -.0457023568, w: .711649895}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe10
+      position: {x: -.0169858914, y: .0309117865, z: .0139756519}
+      rotation: {x: -.163441673, y: -.0465352684, z: -.000908747141, w: .98545444}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe10Nub
+      position: {x: -2.86102342e-08, y: .0395079367, z: -6.19888354e-08}
+      rotation: {x: .499999821, y: -.50000006, z: -.5, w: .500000119}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe30
+      position: {x: .0149114262, y: .0203712508, z: .00768758357}
+      rotation: {x: -.206120312, y: -.0533276945, z: .022903163, w: .976804018}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe30Nub
+      position: {x: -1.90734877e-08, y: .030487217, z: -1.90734877e-08}
+      rotation: {x: .499999821, y: -.5, z: -.50000006, w: .500000119}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe40
+      position: {x: .0295874476, y: .0109363198, z: .000775014574}
+      rotation: {x: -.161436602, y: -.0365095958, z: .0533927791, w: .984761178}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe40Nub
+      position: {x: -9.53674384e-09, y: .0259817336, z: 7.15255855e-09}
+      rotation: {x: .499999881, y: -.500000119, z: -.49999994, w: .50000006}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe20
+      position: {x: -.000375423493, y: .0297578964, z: .0107965656}
+      rotation: {x: -.148874983, y: -.0407841727, z: .00897398591, w: .987973869}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe20Nub
+      position: {x: -1.90734877e-08, y: .033759959, z: -3.33786048e-08}
+      rotation: {x: .499999821, y: -.50000006, z: -.5, w: .500000119}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe00
+      position: {x: -.0391984694, y: .0278461147, z: .00997899566}
+      rotation: {x: -4.69624666e-07, y: 6.49672813e-07, z: -1.54900619e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Toe00Nub
+      position: {x: -0, y: .0473593809, z: -4.11272119e-08}
+      rotation: {x: .499999821, y: -.50000006, z: -.5, w: .500000119}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_ToeBaseShareBone
+      position: {x: .0150643419, y: .0244421009, z: .12701337}
+      rotation: {x: .700748146, y: .0204414092, z: -.0457022563, w: .711649835}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hip0
+      position: {x: -.0296133384, y: .0362164192, z: -.107528925}
+      rotation: {x: .00230370066, y: -.699611783, z: .714515567, w: -.0023543376}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hip0Nub
+      position: {x: -.000212845815, y: .0527922101, z: -.0108533585}
+      rotation: {x: -.4958134, y: .503203571, z: -.49675566, w: .504171789}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_ThighTwist01
+      position: {x: 7.62939507e-08, y: -1.53779993e-07, z: -7.15255855e-09}
+      rotation: {x: -8.32013924e-08, y: -8.97331192e-05, z: 7.47319481e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_ThighTwist02
+      position: {x: -1.71661412e-07, y: .225616828, z: 2.62260507e-08}
+      rotation: {x: -8.74227837e-08, y: 8.99079605e-05, z: -7.85236372e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Thigh
+      position: {x: .0971373469, y: -.0224267878, z: .0013041161}
+      rotation: {x: -.000427545921, y: .0946720093, z: .995463371, w: .00947491359}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Calf
+      position: {x: -9.53674206e-09, y: .45122993, z: 6.43730118e-08}
+      rotation: {x: -.0162844434, y: .000388973422, z: -.00110246998, w: .999866724}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_CalfTwist01
+      position: {x: -0, y: 2.55107864e-07, z: 7.15255677e-09}
+      rotation: {x: -9.16417306e-08, y: 2.84727794e-05, z: -8.74253345e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_CalfTwist02
+      position: {x: 8.58306706e-08, y: .264921635, z: 7.62939294e-08}
+      rotation: {x: 1.08094277e-07, y: -.000552328071, z: 3.5057672e-11, w: .999999881}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Knee
+      position: {x: -0, y: 2.55107864e-07, z: 7.15255677e-09}
+      rotation: {x: .00156194565, y: 2.83548889e-05, z: 4.18711892e-07, w: .999998808}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Foot
+      position: {x: -1.09672534e-07, y: .544098794, z: -4.93526386e-06}
+      rotation: {x: -.0157240834, y: -.000550498313, z: .0104857348, w: .999821246}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Foot01_Floor1
+      position: {x: -.050784409, y: .0536230505, z: .230602965}
+      rotation: {x: 1.89678616e-07, y: .719339669, z: -.694658518, w: -1.86959142e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Foot01_Floor2
+      position: {x: .0485013947, y: .0536229797, z: .230603039}
+      rotation: {x: 1.89678616e-07, y: .719339669, z: -.694658518, w: -1.86959142e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Foot01_Floor3
+      position: {x: -.0507844202, y: .0585154891, z: .0904929787}
+      rotation: {x: 1.89678616e-07, y: .719339669, z: -.694658518, w: -1.86959142e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Foot01_Floor4
+      position: {x: .0485013723, y: .058515422, z: .090493001}
+      rotation: {x: 1.89678616e-07, y: .719339669, z: -.694658518, w: -1.86959142e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Foot01_Floor5
+      position: {x: -.0507844687, y: .0634079278, z: -.0496170186}
+      rotation: {x: 1.89678616e-07, y: .719339669, z: -.694658518, w: -1.86959142e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Foot01_Floor6
+      position: {x: .0485013537, y: .063407883, z: -.0496169813}
+      rotation: {x: 1.89678616e-07, y: .719339669, z: -.694658518, w: -1.86959142e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_ToeBase
+      position: {x: -.0150628742, y: .0244439188, z: .127012923}
+      rotation: {x: .700747967, y: -.0204420183, z: .0457021929, w: .711650014}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe10
+      position: {x: .0169845354, y: .0309115835, z: .0139758028}
+      rotation: {x: -.163441211, y: .0465348028, z: .000908613845, w: .985454559}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe10Nub
+      position: {x: -4.76837103e-09, y: .0395078547, z: -5.72204542e-08}
+      rotation: {x: -.50000006, y: .5, z: -.49999997, w: .500000119}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe30
+      position: {x: -.0149123678, y: .0203716867, z: .00768734654}
+      rotation: {x: -.206119776, y: .0533274598, z: -.0229036864, w: .976804137}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe30Nub
+      position: {x: -3.81469754e-08, y: .0304871593, z: -2.86102342e-08}
+      rotation: {x: .50000006, y: -.499999851, z: .50000006, w: -.49999997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe40
+      position: {x: -.0295882728, y: .010937158, z: .000774627668}
+      rotation: {x: -.161436409, y: .0365096405, z: -.0533933379, w: .984761178}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe40Nub
+      position: {x: -9.53674206e-09, y: .0259816814, z: 9.53674206e-09}
+      rotation: {x: .500000119, y: -.499999911, z: .500000179, w: -.499999821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe20
+      position: {x: .000374221825, y: .0297581013, z: .0107964799}
+      rotation: {x: -.148873687, y: .0407840088, z: -.00897443201, w: .987974107}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe20Nub
+      position: {x: -9.53674206e-09, y: .0337599255, z: 0}
+      rotation: {x: .500000119, y: -.499999881, z: .500000119, w: -.499999881}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe00
+      position: {x: .0391968675, y: .0278455652, z: .00997960195}
+      rotation: {x: -2.92380435e-07, y: -1.94452966e-07, z: 5.13572438e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Toe00Nub
+      position: {x: -2.38418547e-08, y: .0473592989, z: -6.73532412e-08}
+      rotation: {x: .50000006, y: -.499999881, z: .500000119, w: -.49999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_ToeBaseShareBone
+      position: {x: -.0150628174, y: .0244438909, z: .127012342}
+      rotation: {x: .70074743, y: -.0204423685, z: .0457022823, w: .711650491}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hip0
+      position: {x: .0296133198, y: .0362163074, z: -.107528962}
+      rotation: {x: -.714515567, y: .00235434063, z: -.0023036662, w: .699611783}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hip0Nub
+      position: {x: 4.76837103e-09, y: .0499999858, z: 1.17868176e-07}
+      rotation: {x: .50000006, y: -.49999994, z: .50000006, w: -.49999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_ThighTwist01
+      position: {x: -7.62939365e-08, y: -1.61230545e-07, z: -7.15255677e-09}
+      rotation: {x: 0, y: 8.9512454e-05, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_ThighTwist02
+      position: {x: 1.52587901e-07, y: .225616619, z: -2.86102342e-08}
+      rotation: {x: 0, y: -8.9512454e-05, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Waist
+      position: {x: -1.06403268e-05, y: .0789232627, z: .0140638761}
+      rotation: {x: .295025021, y: 8.95184494e-05, z: -.000292871962, w: .955489457}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Abdominal
+      position: {x: -.0538232774, y: .0508634634, z: .0726486742}
+      rotation: {x: -.000273738144, y: .884247243, z: .467019111, w: -.000142339035}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_AbdominalNub
+      position: {x: 9.53674206e-09, y: .0500000603, z: -7.34917336e-08}
+      rotation: {x: .49999994, y: -.49999994, z: -.50000006, w: .50000006}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Abdominal
+      position: {x: .0537342392, y: .0509289354, z: .0726486593}
+      rotation: {x: -.00027353139, y: .884247243, z: .467019111, w: -.000141875105}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_AbdominalNub
+      position: {x: -2.86102271e-08, y: .0500001423, z: -3.06994075e-08}
+      rotation: {x: .5, y: -.50000006, z: .500000119, w: -.49999997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Spine01
+      position: {x: -1.4727641e-07, y: .0483665839, z: -2.37226445e-07}
+      rotation: {x: -.377964079, y: .00085216458, z: .00266238372, w: .925816059}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Spine02
+      position: {x: -1.7084183e-07, y: .139123648, z: 2.83718151e-07}
+      rotation: {x: -.0107902996, y: 1.65354559e-05, z: -.00387649983, w: .999934256}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Ribs
+      position: {x: -.114326075, y: .147498086, z: .0693093538}
+      rotation: {x: 5.69964468e-05, y: -.0045016408, z: .998592377, w: -.0528495163}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_RibsNub
+      position: {x: -8.58306777e-08, y: .217430905, z: 9.53674189e-08}
+      rotation: {x: .499999821, y: -.5, z: -.5, w: .500000179}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_RibsTwist
+      position: {x: .00764799025, y: .0762155205, z: .0358653925}
+      rotation: {x: .636452615, y: -.0328536555, z: -.0397180356, w: .76959157}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Breast
+      position: {x: -2.86102342e-08, y: .0299999882, z: -3.02208377e-07}
+      rotation: {x: -6.72829898e-08, y: -1.92070289e-07, z: 9.10822891e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_BreastNub
+      position: {x: -9.53674384e-09, y: .0300000329, z: 1.74226017e-07}
+      rotation: {x: .499999911, y: -.49999994, z: -.50000006, w: .500000238}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Ribs
+      position: {x: .11502111, y: .148060843, z: .0693094581}
+      rotation: {x: -4.63784854e-05, y: -.00450239889, z: .998727202, w: .0502375253}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_RibsNub
+      position: {x: -3.81469754e-08, y: .217431009, z: 1.81198132e-07}
+      rotation: {x: -.499999732, y: .500000179, z: -.500000119, w: .500000119}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_RibsTwist
+      position: {x: -.00764815416, y: .076216042, z: .0358652882}
+      rotation: {x: .636453032, y: .0328538381, z: .0397182517, w: .769591212}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Breast
+      position: {x: 1.81198132e-07, y: .0300000999, z: -1.6451466e-07}
+      rotation: {x: 0, y: 1.80226607e-07, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_BreastNub
+      position: {x: -9.53674384e-09, y: .0300000329, z: 1.44399252e-07}
+      rotation: {x: -.5, y: .499999881, z: -.500000119, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_NeckTwist01
+      position: {x: -3.09711282e-07, y: .266007274, z: 4.33921787e-06}
+      rotation: {x: .219066456, y: -.000412527792, z: .00416727411, w: .975700974}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_NeckTwist02
+      position: {x: -6.51068888e-07, y: .0405204892, z: -7.15255695e-08}
+      rotation: {x: -2.97967858e-06, y: 1.94857336e-07, z: -4.40063408e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Head
+      position: {x: 1.07660867e-06, y: .0433150902, z: 2.38418529e-08}
+      rotation: {x: -.125951022, y: .000300058513, z: -.0028360791, w: .992032409}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_FacialBone
+      position: {x: -6.09569213e-07, y: -3.24957028e-07, z: -3.67164574e-07}
+      rotation: {x: -.675721049, y: .19018428, z: .687215805, w: -.186990485}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Cheek01
+      position: {x: -.0887065679, y: .00636857841, z: .0530861504}
+      rotation: {x: -.609880388, y: -.351733208, z: .620254695, w: -.345852196}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Cheek02
+      position: {x: -.0535937212, y: .022149913, z: .0584470145}
+      rotation: {x: -.609880388, y: -.351733208, z: .620254695, w: -.345852196}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_CornerLip
+      position: {x: -.077756539, y: .0432766862, z: .0265544355}
+      rotation: {x: -.609880388, y: -.351733208, z: .620254695, w: -.345852196}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_EyeRoot
+      position: {x: -.101284035, y: -.0213666819, z: .0326094665}
+      rotation: {x: -.609880626, y: -.351733327, z: .620254457, w: -.345852345}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Eyebrows
+      position: {x: -.000540924026, y: -.018483365, z: .0139948912}
+      rotation: {x: -1.92905236e-06, y: -7.64847954e-08, z: -1.02060099e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_InnerBrow
+      position: {x: .0156100709, y: -.00560529577, z: .00597526599}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_OutterBrow
+      position: {x: -.0185566694, y: .0106236525, z: .00241987617}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_EyelidDown
+      position: {x: -.000941645994, y: -.0125804739, z: -.00635375129}
+      rotation: {x: -1.92905236e-06, y: -7.64847954e-08, z: -1.02060099e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_EyelidUp
+      position: {x: -.00150905119, y: -.0138446456, z: .00366858509}
+      rotation: {x: -1.92905236e-06, y: -7.64847954e-08, z: -1.02060099e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Eye
+      position: {x: -.00192144141, y: .00585640827, z: .0027567863}
+      rotation: {x: -1.9290419e-06, y: -7.3806774e-08, z: 5.16404462e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_NoseF
+      position: {x: -.119662099, y: .029629929, z: .00155597413}
+      rotation: {x: -.609880865, y: -.351733029, z: .620254457, w: -.345852047}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_NoseSide
+      position: {x: -.0160983037, y: .0190343224, z: -.00193584198}
+      rotation: {x: -9.82224037e-07, y: -1.39028842e-07, z: 1.02607764e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_NoseM
+      position: {x: -2.18627942e-08, y: .0166875403, z: .0266634226}
+      rotation: {x: -9.82224037e-07, y: -1.39057988e-07, z: -4.32662353e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_NoseSide
+      position: {x: .0160982814, y: .0190343224, z: -.00193599251}
+      rotation: {x: -9.82224037e-07, y: -1.39028842e-07, z: 1.02607764e-20, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Cheek01
+      position: {x: -.0904615894, y: .00636860495, z: -.0509892926}
+      rotation: {x: -.609880388, y: -.351733208, z: .620254695, w: -.345852196}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Cheek02
+      position: {x: -.0555497408, y: .0221499391, z: -.0575306676}
+      rotation: {x: -.609880388, y: -.351733208, z: .620254695, w: -.345852196}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_CornerLip
+      position: {x: -.0786234587, y: .0432767011, z: -.0248412509}
+      rotation: {x: -.609880388, y: -.351733208, z: .620254695, w: -.345852196}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_EyeRoot
+      position: {x: -.102341972, y: -.0213667825, z: -.0301016942}
+      rotation: {x: -.609880626, y: -.351733327, z: .620254457, w: -.345852345}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Eyebrows
+      position: {x: .000540947891, y: -.0184834469, z: .0139948223}
+      rotation: {x: -1.92905236e-06, y: -7.64847954e-08, z: -1.02060099e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_InnerBrow
+      position: {x: -.015610083, y: -.00560529111, z: .00597519195}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_OutterBrow
+      position: {x: .0185566675, y: .0106236693, z: .00241991086}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_EyelidDown
+      position: {x: .0009416627, y: -.0125805605, z: -.00635379599}
+      rotation: {x: -1.92905236e-06, y: -7.64847954e-08, z: -1.02060099e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_EyelidUp
+      position: {x: .00150907494, y: -.0138447098, z: .00366850966}
+      rotation: {x: -1.92905236e-06, y: -7.64847954e-08, z: -1.02060099e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Eye
+      position: {x: .00192141032, y: .0058596055, z: .00275859283}
+      rotation: {x: -1.9290419e-06, y: -7.3806774e-08, z: 5.16404462e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_UpperJaw
+      position: {x: -.0680153668, y: .00906091835, z: .000685038802}
+      rotation: {x: -.609880865, y: -.351733029, z: .620254457, w: -.345852047}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_LowerCenterLip
+      position: {x: 5.91343223e-08, y: -.0402298793, z: -.0295991004}
+      rotation: {x: -9.82224037e-07, y: -1.39057988e-07, z: -4.32662353e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_LowerLip
+      position: {x: -.0151968189, y: .00520398468, z: .00211943476}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_LowerLip
+      position: {x: .015196817, y: .0052039898, z: .00211941381}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_UpperCenterLip
+      position: {x: 5.33647793e-08, y: -.0438186675, z: -.0149184642}
+      rotation: {x: -9.82224037e-07, y: -1.39057988e-07, z: -4.32662353e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_UpperLip
+      position: {x: -.0177168958, y: .00770054664, z: -.00276107015}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_UpperLip
+      position: {x: .0177168958, y: .00770055642, z: -.0027611414}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Teeth01
+      position: {x: -1.16880972e-09, y: -.0110803815, z: -.00234433473}
+      rotation: {x: .5, y: .499994874, z: .5, w: .500005126}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_JawRoot
+      position: {x: -.0274246875, y: -1.19209268e-07, z: -1.04345361e-07}
+      rotation: {x: -.00347670563, y: .00768139679, z: -.412246346, w: .911033392}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Tongue01
+      position: {x: -.0443339497, y: -.00202716026, z: 1.47465599e-07}
+      rotation: {x: -1.50099623e-07, y: 2.31103141e-13, z: .108506463, w: .994095743}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Tongue02
+      position: {x: -.0108458865, y: -1.77621814e-07, z: -8.94069596e-10}
+      rotation: {x: 8.67959074e-08, y: 9.87925655e-16, z: -.0963129327, w: .995351136}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Tongue03
+      position: {x: -.0150813656, y: -5.23328708e-07, z: -1.33179112e-09}
+      rotation: {x: -1.49583343e-07, y: 1.24269919e-15, z: .0517471023, w: .998660266}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Tongue03Nub
+      position: {x: -.0063821692, y: 2.55107864e-07, z: -7.26431526e-10}
+      rotation: {x: 8.562305e-08, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Teeth02
+      position: {x: -.0437266193, y: -.00176200666, z: 1.47493537e-07}
+      rotation: {x: .987950206, y: .154772356, z: 2.65053927e-07, w: 3.6282313e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Hair
+      position: {x: -4.56422526e-07, y: -3.27452966e-07, z: -8.10623035e-08}
+      rotation: {x: -8.30739452e-07, y: -3.71903099e-07, z: -3.42433508e-21, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Part_HairMesh
+      position: {x: -5.21540588e-10, y: 3.64817623e-07, z: 3.81469683e-08}
+      rotation: {x: 0, y: 0, z: -9.54605568e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Hair 1
+      position: {x: -1.51805565e-07, y: -1.74678846e-07, z: -1.09672534e-07}
+      rotation: {x: .499809712, y: -.499803841, z: -.500191033, w: .500195265}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_HeadNub
+      position: {x: -9.85711708e-08, y: .165603712, z: -1.43051135e-08}
+      rotation: {x: .5, y: -.5, z: -.5, w: .5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Clavicle
+      position: {x: .059328679, y: .213043973, z: .00256454898}
+      rotation: {x: -.0147526525, y: .149998143, z: -.674682558, w: .722555459}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Upperarm
+      position: {x: 4.30345494e-07, y: .130685598, z: 1.43051135e-08}
+      rotation: {x: .114561781, y: .00299707428, z: -.0606615394, w: .991557837}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Forearm
+      position: {x: -1.23977642e-07, y: .252610177, z: 2.19345068e-07}
+      rotation: {x: .0258286018, y: .017896384, z: .0742958188, w: .996741056}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hand
+      position: {x: -1.15633e-07, y: .257630676, z: -1.23023972e-06}
+      rotation: {x: .0719131231, y: .00654637301, z: -.0284395013, w: .996983886}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hand01_Floor1
+      position: {x: -.000886168331, y: .234812573, z: .0570689365}
+      rotation: {x: -.546639144, y: -.464253336, z: .548234284, w: .430225283}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hand01_Floor2
+      position: {x: .00235832646, y: .13614507, z: .0772097632}
+      rotation: {x: -.546639144, y: -.464253336, z: .548234284, w: .430225283}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hand01_Floor3
+      position: {x: .00573716965, y: .033377219, z: .0981879756}
+      rotation: {x: -.546639144, y: -.464253336, z: .548234284, w: .430225283}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hand01_Floor4
+      position: {x: .00348879281, y: .210545614, z: -.0625102296}
+      rotation: {x: -.546639144, y: -.464253336, z: .548234284, w: .430225283}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hand01_Floor5
+      position: {x: .00673357351, y: .111878335, z: -.0423691459}
+      rotation: {x: -.546639144, y: -.464253336, z: .548234284, w: .430225283}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Hand01_Floor6
+      position: {x: .0101118302, y: .00911010522, z: -.0213912912}
+      rotation: {x: -.546639144, y: -.464253336, z: .548234284, w: .430225283}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger10
+      position: {x: -.00722947204, y: .116528071, z: .0290999934}
+      rotation: {x: -.0476255976, y: -.0132721663, z: .0210870411, w: .998554468}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger11
+      position: {x: 5.41210113e-07, y: .0317097455, z: -1.52587873e-07}
+      rotation: {x: -4.66009624e-05, y: -.00542435236, z: -.00575505802, w: .999968767}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger12
+      position: {x: 6.11543555e-07, y: .0261941496, z: -2.67028781e-07}
+      rotation: {x: .000490369857, y: .0112769948, z: .0150797917, w: .999822557}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger1Nub
+      position: {x: -5.60283588e-08, y: .0204485301, z: 1.0490416e-07}
+      rotation: {x: .707106829, y: -.707106709, z: 1.88313919e-07, w: -1.88313933e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger00
+      position: {x: .00933356304, y: .0574209504, z: .0383688286}
+      rotation: {x: .246987075, y: -.684556723, z: -.234803423, w: .644396484}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger01
+      position: {x: -3.05175746e-07, y: .0302671026, z: -9.29832368e-07}
+      rotation: {x: -.0219698772, y: .727235198, z: .0266932007, w: .685517251}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger02
+      position: {x: -1.93417051e-07, y: .0320268981, z: 1.14440908e-07}
+      rotation: {x: .0132852281, y: .00192527543, z: .00139908318, w: .999908924}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger0Nub
+      position: {x: -9.05990518e-08, y: .0247490667, z: -3.05175746e-07}
+      rotation: {x: .707106829, y: -.707106709, z: -4.42542046e-07, w: -4.42541989e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger40
+      position: {x: .0130167222, y: .100058116, z: -.038115304}
+      rotation: {x: -.0452792346, y: -.0135811931, z: .0222118068, w: .998635054}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger41
+      position: {x: 2.71797205e-07, y: .0284257531, z: -2.28881873e-07}
+      rotation: {x: -.00508787064, y: -.00443651527, z: -.00920641143, w: .999934852}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger42
+      position: {x: 1.4066697e-07, y: .021784747, z: 0}
+      rotation: {x: -.0108235655, y: .00619890122, z: .0183832645, w: .999753237}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger4Nub
+      position: {x: 1.34706468e-07, y: .0166010261, z: 1.14440894e-07}
+      rotation: {x: .707106948, y: -.70710665, z: 6.93859903e-08, w: -3.07241805e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger20
+      position: {x: -.00470975041, y: .114076212, z: .00221939036}
+      rotation: {x: -.0496100709, y: -.0159739554, z: .0185159314, w: .998469293}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger21
+      position: {x: -6.77704861e-07, y: .0426490828, z: -6.29425131e-07}
+      rotation: {x: .000467231148, y: -.00121832942, z: -.00120228389, w: .99999845}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger22
+      position: {x: 1.26361817e-06, y: .0273860879, z: 3.52859416e-07}
+      rotation: {x: .000907894399, y: .00341410493, z: .00549025787, w: .999978721}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger2Nub
+      position: {x: -3.83257827e-07, y: .0236093104, z: -4.1961664e-07}
+      rotation: {x: .707107067, y: -.70710659, z: 1.63289513e-07, w: -4.01652244e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger30
+      position: {x: .00381555967, y: .10952238, z: -.0197828449}
+      rotation: {x: -.04596458, y: -.0151161067, z: .0194718614, w: .998638868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger31
+      position: {x: -9.65595106e-08, y: .0365658551, z: -6.67571953e-08}
+      rotation: {x: -.00216701603, y: .00439094706, z: -.0088750571, w: .999948621}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger32
+      position: {x: 4.76837101e-07, y: .0251946226, z: -1.71661355e-07}
+      rotation: {x: -.00470668683, y: .00184233708, z: .0240056626, w: .999699056}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Finger3Nub
+      position: {x: 1.35898574e-07, y: .0233534966, z: -1.90734838e-07}
+      rotation: {x: .707106948, y: -.70710665, z: 1.88313905e-07, w: -1.88313948e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_Elbow
+      position: {x: -2.98023195e-07, y: -1.14440908e-07, z: -2.95639012e-07}
+      rotation: {x: -1.36578262e-06, y: -4.68307562e-08, z: 3.382834e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_ForearmTwist01
+      position: {x: -2.98023195e-07, y: -1.14440908e-07, z: -2.95639012e-07}
+      rotation: {x: 0, y: -4.68298254e-08, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_ForearmTwist02
+      position: {x: 6.15119973e-07, y: .12881586, z: -6.67572095e-08}
+      rotation: {x: 0, y: -4.2602494e-08, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_UpperarmTwist01
+      position: {x: -2.33650184e-07, y: 3.81469683e-08, z: 1.43051139e-07}
+      rotation: {x: 0, y: -1.48520854e-07, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_R_UpperarmTwist02
+      position: {x: 4.29153403e-07, y: .126305506, z: 5.34057563e-07}
+      rotation: {x: 0, y: 2.75762858e-07, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Clavicle
+      position: {x: -.0589958131, y: .212754175, z: .00256463489}
+      rotation: {x: -.0143601922, y: -.150034234, z: .676570535, w: .72078836}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Upperarm
+      position: {x: -8.83936764e-07, y: .130685627, z: 2.38418547e-08}
+      rotation: {x: .114558101, y: -.00299937977, z: .060670305, w: .991557658}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Forearm
+      position: {x: 5.24520772e-07, y: .252610594, z: 1.81198075e-07}
+      rotation: {x: .0258272998, y: -.0178961977, z: -.0742958188, w: .996741176}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hand
+      position: {x: 2.77757579e-07, y: .257630616, z: -9.05990419e-07}
+      rotation: {x: .0719128028, y: -.00654623378, z: .0284402948, w: .996983886}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hand01_Floor1
+      position: {x: .000808219949, y: .234833315, z: .057078708}
+      rotation: {x: .546639264, y: -.464253962, z: .548233211, w: -.430225641}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hand01_Floor2
+      position: {x: -.00240191724, y: .136161596, z: .0772216842}
+      rotation: {x: .546639264, y: -.464253962, z: .548233211, w: -.430225641}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hand01_Floor3
+      position: {x: -.00575291924, y: .0333902799, z: .0982011855}
+      rotation: {x: .546639264, y: -.464253962, z: .548233211, w: -.430225641}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hand01_Floor4
+      position: {x: -.00353590283, y: .210566729, z: -.0625114888}
+      rotation: {x: .546639264, y: -.464253962, z: .548233211, w: -.430225641}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hand01_Floor5
+      position: {x: -.0067466693, y: .111894615, z: -.0423683971}
+      rotation: {x: .546639264, y: -.464253962, z: .548233211, w: -.430225641}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Hand01_Floor6
+      position: {x: -.0100973714, y: .00912315492, z: -.0213890485}
+      rotation: {x: .546639264, y: -.464253962, z: .548233211, w: -.430225641}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger10
+      position: {x: .00722859893, y: .116528325, z: .0290999617}
+      rotation: {x: -.047625538, y: .0132722827, z: -.0210875887, w: .998554468}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger11
+      position: {x: -4.35411891e-07, y: .0317095928, z: -6.58035219e-07}
+      rotation: {x: -4.67140017e-05, y: .00542449439, z: .00575596839, w: .999968708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger12
+      position: {x: -1.37090666e-07, y: .0261936914, z: -2.0980832e-07}
+      rotation: {x: .000490337203, y: -.0112768589, z: -.0150812902, w: .999822557}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger1Nub
+      position: {x: 5.245208e-08, y: .020448301, z: 1.90734841e-08}
+      rotation: {x: .707106829, y: -.707106709, z: -3.00465672e-07, w: 7.61621948e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger00
+      position: {x: -.00933480356, y: .057421267, z: .0383686498}
+      rotation: {x: .246988401, y: .684556484, z: .234802365, w: .644396603}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger01
+      position: {x: -3.43322711e-07, y: .0302669499, z: 6.81877054e-07}
+      rotation: {x: -.0219324958, y: -.727235675, z: -.0267093144, w: .685517251}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger02
+      position: {x: -1.01149067e-06, y: .0320271254, z: -7.62939294e-08}
+      rotation: {x: .0132853081, y: -.00192468218, z: -.00139906979, w: .999908924}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger0Nub
+      position: {x: 4.04119533e-07, y: .0247489177, z: -4.57763747e-07}
+      rotation: {x: .707106829, y: -.707106709, z: -2.58149498e-07, w: -2.5814947e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger40
+      position: {x: -.0130171757, y: .10005822, z: -.0381153151}
+      rotation: {x: -.0452784784, y: .0135810226, z: -.0222129263, w: .998635113}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger41
+      position: {x: -4.88162016e-07, y: .0284254421, z: -1.14440908e-07}
+      rotation: {x: -.00508732162, y: .00443669688, z: .00920802634, w: .999934852}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger42
+      position: {x: 1.9073488e-07, y: .0217845179, z: 9.53674402e-08}
+      rotation: {x: -.0108241756, y: -.00619914988, z: -.0183848403, w: .999753177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger4Nub
+      position: {x: 3.19480847e-07, y: .0166011024, z: 1.90734841e-08}
+      rotation: {x: -.70710659, y: .707106948, z: 6.09224685e-07, w: -1.44030892e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger20
+      position: {x: .00470900582, y: .114076391, z: .00221920037}
+      rotation: {x: -.0496093445, y: .0159741435, z: -.0185155142, w: .998469293}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger21
+      position: {x: 6.44326121e-07, y: .0426487662, z: -5.53131031e-07}
+      rotation: {x: .000467218342, y: .00121858052, z: .00120182079, w: .99999845}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger22
+      position: {x: -2.96831075e-07, y: .0273860879, z: 4.29153374e-07}
+      rotation: {x: .000907975482, y: -.00341500668, z: -.00549151795, w: .999978721}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger2Nub
+      position: {x: -5.0395721e-07, y: .0236087013, z: -4.10079906e-07}
+      rotation: {x: -.70710665, y: .707106948, z: 3.76627838e-07, w: -3.76627867e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger30
+      position: {x: -.003816579, y: .10952241, z: -.0197828878}
+      rotation: {x: -.0459646732, y: .0151164113, z: -.0194715373, w: .998638868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger31
+      position: {x: -7.80820741e-08, y: .0365658551, z: -1.14440908e-07}
+      rotation: {x: -.00216648029, y: -.00439082133, z: .00887517259, w: .999948621}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger32
+      position: {x: -6.46114245e-07, y: .0251943935, z: -1.62124607e-07}
+      rotation: {x: -.00470662955, y: -.00184236688, z: -.0240069535, w: .999698997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Finger3Nub
+      position: {x: 9.27448184e-07, y: .023353802, z: -1.90734838e-07}
+      rotation: {x: .707106829, y: -.707106709, z: -3.88705672e-07, w: -1.20777939e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_Elbow
+      position: {x: 3.65972426e-07, y: -1.14440894e-07, z: -3.05175718e-07}
+      rotation: {x: -1.49110224e-06, y: 1.38189719e-07, z: 1.53298032e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_ForearmTwist01
+      position: {x: 3.65972426e-07, y: -1.14440894e-07, z: -3.05175718e-07}
+      rotation: {x: 4.34547765e-15, y: 1.38190217e-07, z: -8.46338892e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_ForearmTwist02
+      position: {x: -1.90734823e-07, y: .128815785, z: 1.81198075e-07}
+      rotation: {x: 1.91886285e-14, y: 3.07023868e-07, z: -8.7427857e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_UpperarmTwist01
+      position: {x: -2.05039939e-07, y: 3.81469647e-08, z: 1.71661341e-07}
+      rotation: {x: 1.26562528e-14, y: 1.47712512e-07, z: -8.56816555e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_L_UpperarmTwist02
+      position: {x: 8.10622964e-08, y: .126305535, z: 5.24520772e-07}
+      rotation: {x: -1.26562528e-14, y: -2.98703185e-07, z: -8.56816555e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Jeans
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Part_HairMesh_0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RL_G6_Tongue
+      position: {x: -0, y: -4.57763662e-07, z: -3.05175774e-07}
+      rotation: {x: -.70710665, y: 3.37174924e-07, z: 6.74349451e-07, w: .707106948}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Shirt
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
